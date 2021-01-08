@@ -1,0 +1,7 @@
+C:\Users\Dan\Documents\Projects\C#\LogicTest\bin\Debug\LogicTest.exe.config
+C:\Users\Dan\Documents\Projects\C#\LogicTest\bin\Debug\LogicTest.exe
+C:\Users\Dan\Documents\Projects\C#\LogicTest\bin\Debug\LogicTest.pdb
+C:\Users\Dan\Documents\Projects\C#\LogicTest\obj\Debug\LogicTest.csprojAssemblyReference.cache
+C:\Users\Dan\Documents\Projects\C#\LogicTest\obj\Debug\LogicTest.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\Projects\C#\LogicTest\obj\Debug\LogicTest.exe
+C:\Users\Dan\Documents\Projects\C#\LogicTest\obj\Debug\LogicTest.pdb
